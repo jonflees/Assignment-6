@@ -9,6 +9,7 @@ Files Included:
 - Sorts.h   my header file
 - Sorts.cpp  defintions of sorts class methods
 - Main.cpp  implementation of the program
+- Analysis.tex  latex code to create my analysis document
 
 g++ Sorts.h
 g++ Sorts.cpp Main.cpp
